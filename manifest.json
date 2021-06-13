@@ -1,0 +1,8 @@
+{
+  "short_name": "Simone Santillo Portfolio",
+  "name": "Simone Santillo Portfolio",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#6c63ff",
+  "background_color": "#ffffff"
+}
