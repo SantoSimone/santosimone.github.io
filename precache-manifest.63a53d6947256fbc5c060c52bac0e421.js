@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5128833e26b64f16ccbe2e3d50b8f523",
+    "revision": "35650255784a4865f035bf948a15454d",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.ed0589d3.chunk.css"
   },
   {
-    "revision": "9b3d5b6c0f4363813961",
+    "revision": "e309d2c0810b125f4238",
     "url": "/static/css/main.a83bddfc.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.71e068a0.chunk.js"
   },
   {
-    "revision": "9b3d5b6c0f4363813961",
-    "url": "/static/js/main.2cd34bd7.chunk.js"
+    "revision": "e309d2c0810b125f4238",
+    "url": "/static/js/main.68b6e937.chunk.js"
   },
   {
     "revision": "0173ab1cd4fd7e3bcb6e",
@@ -60,12 +60,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/dvcLogo.5de3b11d.jpg"
   },
   {
-    "revision": "20cd539534801c7d2a6327e3cbd01ca4",
-    "url": "/static/media/loginLogo.20cd5395.png"
+    "revision": "e46619ae13c93251c669fb9f5b22ffd2",
+    "url": "/static/media/greetings.e46619ae.svg"
   },
   {
-    "revision": "52be31441c8cf8a8a16bd7a228d428bf",
-    "url": "/static/media/manOnTable.52be3144.svg"
+    "revision": "20cd539534801c7d2a6327e3cbd01ca4",
+    "url": "/static/media/loginLogo.20cd5395.png"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
